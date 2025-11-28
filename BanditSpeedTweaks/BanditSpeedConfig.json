@@ -1,0 +1,10 @@
+{
+  "BanditSpeedMultipliers": {
+    "steppe_bandits": 0.7, // 70% speed
+    "forest_bandits": 1.0, // 100% speed (normal)
+    "mountain_bandits": 0.9, // 90% speed
+    "desert_bandits": 1.0, // 100% speed (normal)
+    "sea_raiders": 0.85, // 85% speed
+    "looters": 1.0 // 100% speed (normal)
+  }
+}
