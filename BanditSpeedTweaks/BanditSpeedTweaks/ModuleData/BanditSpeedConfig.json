@@ -1,0 +1,12 @@
+{
+  "BanditSpeedMultipliers": {
+    "steppe_bandits": 0.7,
+    "forest_bandits": 1.0,
+    "mountain_bandits": 1.0,
+    "desert_bandits": 0.7, 
+    "sea_raiders": 1.0,
+    "looters": 1.0,
+    "deserters": 1.0,
+    "corsairs": 1.0
+  }
+}

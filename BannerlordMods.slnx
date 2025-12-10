@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="BanditSpeedTweaks/BanditSpeedTweaks.csproj" Id="7b827ed5-da86-4354-8b5f-1e8e0543ca90" />
+  <Folder Name="/BanditSpeedTweaks/">
+    <Project Path="BanditSpeedTweaks/BanditSpeedTweaks.Loader/BanditSpeedTweaks.Loader.csproj" Id="c8d2929a-b9a9-4e32-bb93-d5fc99f53980" />
+    <Project Path="BanditSpeedTweaks/BanditSpeedTweaks.NavalDLC/BanditSpeedTweaks.NavalDLC.csproj" Id="a179f3c0-f23b-4e67-9069-4de41f7897fb" />
+    <Project Path="BanditSpeedTweaks/BanditSpeedTweaks.Standard/BanditSpeedTweaks.Standard.csproj" Id="7058f9d9-8f10-48da-8c01-08e26a88402c" />
+  </Folder>
 </Solution>

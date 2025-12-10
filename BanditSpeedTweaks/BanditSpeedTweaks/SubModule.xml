@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Url>https://steamcommunity.com/sharedfiles/filedetails/?id=3613751655</Url>
+  <Name value="Bandit Speed Tweaks" />
+  <Id value="BanditSpeedTweaks" />
+  <Version value="v1.0.1" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+  <Official value="false" />
+  <DependedModules>
+    <DependedModule Id="Native" />
+    <DependedModule Id="SandBoxCore" />
+    <DependedModule Id="Sandbox" />
+    <DependedModule Id="StoryMode" Optional="true" />
+    <DependedModule Id="NavalDLC" Optional="true" />
+  </DependedModules>
+  <SubModules>
+    <SubModule>
+      <Name value="BanditSpeedTweaks" />
+      <DLLName value="BanditSpeedTweaks.Loader.dll" />
+      <SubModuleClassType value="BanditSpeedTweaks.Loader.LoaderSubModule" />
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+</Module>

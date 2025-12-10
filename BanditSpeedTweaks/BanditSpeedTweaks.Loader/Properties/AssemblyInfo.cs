@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BanditSpeedTweaks")]
+[assembly: AssemblyTitle("BanditSpeedTweaks.Loader")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BanditSpeedTweaks")]
+[assembly: AssemblyProduct("BanditSpeedTweaks.Loader")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7b827ed5-da86-4354-8b5f-1e8e0543ca90")]
+[assembly: Guid("c8d2929a-b9a9-4e32-bb93-d5fc99f53980")]
 
 // Version information for an assembly consists of the following four values:
 //
